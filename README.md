@@ -1,1 +1,1 @@
-# PlaceholdeAPI-JavaScript
+# JavaScript плейсхолдеры для кланов и доната
